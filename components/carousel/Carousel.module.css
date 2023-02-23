@@ -1,0 +1,21 @@
+.main { 
+min-height: 75vh;
+padding: 2rem 0;
+flex: 1;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.Arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 550px;
+    height: 50%;
+    
+
+}
